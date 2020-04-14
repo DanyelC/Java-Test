@@ -1,0 +1,4 @@
+INDEX VERSION 1.4+C:\Users\Heliomar\Desktop\ws-eclipse\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2265284674.index
+3072028924.index
+735705145.index
